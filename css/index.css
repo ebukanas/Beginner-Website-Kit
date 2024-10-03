@@ -541,6 +541,15 @@
     width: 100%;
   }
 
+  #pricing-357 .cs-text span {
+    color: gray;
+    font-size: 0.8em;
+  }
+
+  #pricing-357 .cs-text p {
+    font-size: 1.2em;
+  }
+
 }
 /* Tablet 768px */
 @media only screen and (min-width: 48rem) {
